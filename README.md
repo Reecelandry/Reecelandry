@@ -36,7 +36,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23318CE7&textColor=%23FFFFFF&aColor=%23FFFFFF&borderColor=%23455A64&qColor=%23FFFFFF)
 ###### Refresh page for new joke.
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Thanks for stopping by,
+## Thanks for stopping by,
 
 Reece Landry
 
@@ -58,5 +58,5 @@ Reece Landry
 <!-- links to your social media accounts -->
 
 [1]: https://reecelandry.tech/
-[2]: https://github.com/MartinHeinz
+[2]: https://github.com/ReeceLandry
 [3]: https://www.linkedin.com/in/reeecelandry/
