@@ -15,7 +15,7 @@
 ![PHPMySQL](https://img.shields.io/badge/Code-PHP/MySQL-blue)
 
 ![Xcode](https://img.shields.io/badge/Editor-Xcode-blue)
-![Eclipse](https://img.shields.io/badge/Editor-Eclipse-blue)
+![Webstorm](https://img.shields.io/badge/Editor-WebStorm-blue)
 ![Figma](https://img.shields.io/badge/Editor-Figma-blue)
 
 ![VS](https://img.shields.io/badge/Tools-Version%20Control-blue)
