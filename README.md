@@ -2,7 +2,7 @@
 
 - My name is Reece Landry, a current **3rd year Computing Science** student with freelance experience and a strong passion for technology<br>
 - Experience with **agile software development** and **version control** in a professional environment<br>
-- Exposed to database interactions and server configuration as well as **testing** and front end UI development<br>
+- Exposed to **database interactions** and **server configuration** as well as testing and front end UI development<br>
 - Worked with **multiple clients** and provided support where needed<br><br>
 
 ## 🔧 Technologies & Tools
